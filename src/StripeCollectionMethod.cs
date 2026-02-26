@@ -1,11 +1,11 @@
-﻿using Intellenum;
+using Soenneker.Gen.EnumValues;
 
 namespace Soenneker.Stripe.Enums.CollectionMethods;
 
 /// <summary>
 /// Stripe collection methods enum
 /// </summary>
-[Intellenum<string>]
+[EnumValue<string>]
 public sealed partial class StripeCollectionMethod
 {
     /// <summary>
