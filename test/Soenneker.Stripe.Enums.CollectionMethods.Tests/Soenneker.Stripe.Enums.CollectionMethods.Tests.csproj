@@ -15,7 +15,7 @@
     </ItemGroup>
 
     <ItemGroup>
-        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.CollectionMethods.csproj" />
+        <ProjectReference Include="..\..\src\Soenneker.Stripe.Enums.CollectionMethods\Soenneker.Stripe.Enums.CollectionMethods.csproj" />
     </ItemGroup>
 
     <ItemGroup>
