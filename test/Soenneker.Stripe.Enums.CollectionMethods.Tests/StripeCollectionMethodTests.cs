@@ -1,10 +1,9 @@
-﻿using Xunit;
 
 namespace Soenneker.Stripe.Enums.CollectionMethods.Tests;
 
 public sealed class StripeCollectionMethodTests
 {
-    [Fact]
+    [Test]
     public void Default()
     {
 
