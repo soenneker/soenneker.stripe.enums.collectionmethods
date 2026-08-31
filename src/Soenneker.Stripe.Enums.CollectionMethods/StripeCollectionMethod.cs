@@ -3,7 +3,7 @@ using Soenneker.Gen.EnumValues;
 namespace Soenneker.Stripe.Enums.CollectionMethods;
 
 /// <summary>
-/// Stripe collection methods enum
+/// Represents a Stripe subscription or invoice collection method.
 /// </summary>
 [EnumValue<string>]
 public sealed partial class StripeCollectionMethod
